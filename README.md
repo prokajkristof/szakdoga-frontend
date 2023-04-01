@@ -1,0 +1,1 @@
+# szakdoga-frontend
